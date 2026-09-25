@@ -1,0 +1,10 @@
+Dataset index: 8
+True label: 5
+Clean prediction: 5
+Clean confidence: 0.527917
+Adversarial prediction: 8
+Adversarial confidence: 0.831306
+Epsilon: 0.05
+Alpha: 0.01
+Steps: 40
+Attack successful: True
