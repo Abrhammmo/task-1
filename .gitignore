@@ -10,3 +10,5 @@ venv/
 .vscode/
 *.pt
 data/MNIST/raw
+terminal-session.txt
+adversarial_examples/
